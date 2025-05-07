@@ -1,0 +1,127 @@
+{
+  "ads": [
+    {
+      "id": "bd14",
+      "name": "Niranjan Chand",
+      "brandModel": "Crossfire Crossfire RM 250",
+      "makeYear": "2022",
+      "price": "720000",
+      "location": "kumaripati",
+      "contact": "9865820501`",
+      "email": "niranjachand134@gmail.com",
+      "kilometers": "5000",
+      "condition": "like-new",
+      "description": "like a new bike all at fresh condition",
+      "images": "https://crossfirenepal.com/wp-content/uploads/2022/02/rm.webp"
+    },
+    {
+      "id": "b6e3",
+      "name": "Dhanush Shahu",
+      "brandModel": "KTM KTM Duke 250",
+      "makeYear": "2023",
+      "price": "590999",
+      "location": "lalitpur",
+      "contact": "9867324232",
+      "email": "dhanush@gmail.com",
+      "kilometers": "2000",
+      "condition": "new",
+      "description": "i will go to abroad so i want to sell this bike this bike is new ",
+      "images": "https://assets.nepbike.com/20230108/duke-250-ba25124f.jpg",
+      "Images": "https://assets.nepbike.com/20230108/duke-250-ba25124f.jpg"
+    },
+    {
+      "id": "099e",
+      "name": "bipen chand",
+      "brandModel": "Crossfire Crossfire RM 250",
+      "makeYear": "2027",
+      "price": "21112211",
+      "location": "kumaripati",
+      "contact": "9865820501",
+      "email": "arjunchand2080@gmail.com",
+      "kilometers": "21312",
+      "condition": "like-new",
+      "description": "hello",
+      "images": "https://i0.wp.com/motoworldnepal.com/wp-content/uploads/2022/06/Crossfire-RM-250a-e1655886446184.jpg"
+    },
+    {
+      "id": "e8c7",
+      "name": "dhanush shahu",
+      "brandModel": "Yamaha Yamaha mt-15",
+      "makeYear": "2021",
+      "price": "450000",
+      "location": "darchula",
+      "contact": "9867324232",
+      "email": "dhanush@gmail.com",
+      "kilometers": "2000",
+      "condition": "new",
+      "description": "my bike is fresh condition",
+      "images": [
+        "https://i.pinimg.com/736x/98/57/7e/98577ee4cf9155ee3ee29fbd8c177e50.jpg"
+      ]
+    },
+    {
+      "id": "ef28",
+      "name": "bipen chand",
+      "brandModel": "Bajaj Bajaj Dominar 400",
+      "makeYear": "2020",
+      "price": "500000",
+      "location": "kumaripati",
+      "contact": "9865820501",
+      "email": "niranjachand134@gmail.com",
+      "kilometers": "4342",
+      "condition": "like-new",
+      "description": "this is my new bike",
+      "images": "https://bajaj.com.br/wp-content/themes/twentytwentyone/img/moto/dominar-400/galeria/2.webp"
+    },
+    {
+      "id": "9663",
+      "name": "Niranjan Chand",
+      "brandModel": "Crossfire Crossfire GR7 250",
+      "makeYear": "2021",
+      "price": "243142",
+      "location": "kumaripati",
+      "contact": "9867324232",
+      "email": "arjunchand2080@gmail.com",
+      "kilometers": "6323",
+      "condition": "like-new",
+      "description": "hellloodsf",
+      "images": [
+        "https://crossfirenepal.com/wp-content/uploads/2023/01/DSC3375-1024x683.jpg"
+      ]
+    }
+  ],
+  "userprofile": [
+    {
+      "id": "ad80",
+      "username": "niraj",
+      "email": "arjunchand2080@gmail.com",
+      "address": "lalitpur",
+      "mobileNumber": "9865820503",
+      "images": ""
+    },
+    {
+      "id": "55b1",
+      "username": "niraj",
+      "email": "niranjachand134@gmail.com",
+      "address": "Kumaripati, lalitpur",
+      "mobileNumber": "9865820502",
+      "images": ""
+    },
+    {
+      "id": "df1a",
+      "username": "niraj",
+      "email": "arjunchand2080@gmail.com",
+      "address": "lalitpur",
+      "mobileNumber": "98101410000",
+      "images": ""
+    },
+    {
+      "id": "2193",
+      "username": "Test",
+      "email": "niranjachand134@gmail.com",
+      "address": "Kumaripati",
+      "mobileNumber": "9865820503",
+      "images": ""
+    }
+  ]
+}
