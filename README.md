@@ -42,14 +42,13 @@ This platform enables users to:
 
 
 # How to setup project
-- 'git clone https://github.com/kiranmulmi/react-training-2025.git'
-- cd react-training-2025
+- 'git clone (https://github.com/Niranjanchand134/Bikers-Zone.git)'
 - npm install
 
 # How to Start project
 `npm start`
 
-## Backend
+## How to api folder create (Backend)
 - create api folder 
 - cd api
 - npm init then enter, enter , enter, enter, enter
